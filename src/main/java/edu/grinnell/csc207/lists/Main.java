@@ -1,9 +1,9 @@
-package edu.grinnell.csc207.listlab;
+package edu.grinnell.csc207.lists;
 
 /**
  * The driver for our lab on lists.
  */
-public class ListLab {
+public class Main {
     /**
      * The main entry point for the program.
      * 

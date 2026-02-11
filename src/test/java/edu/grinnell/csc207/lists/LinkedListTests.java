@@ -1,4 +1,4 @@
-package edu.grinnell.csc207.listlab;
+package edu.grinnell.csc207.lists;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

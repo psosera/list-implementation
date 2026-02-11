@@ -1,4 +1,4 @@
-package edu.grinnell.csc207.listlab;
+package edu.grinnell.csc207.lists;
 
 /**
  * An array-based implementation of the list ADT.
